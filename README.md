@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # iTARGET-Interpretable-Tailored-Age-Regression-for-Grouped-Epigenetic-Traits
 iTARGET: Interpretable Tailored Age Regression for Grouped Epigenetic Traits.
 
